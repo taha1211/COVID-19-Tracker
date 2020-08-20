@@ -1,0 +1,12 @@
+.formControl {
+    width: 30%;
+    margin-bottom: 30px !important;
+    border-radius: 5px !important;
+}
+
+.nativeSelect {
+   padding: 1%;
+   padding-left: 3%;
+   background-color: rgb(250,250,250);
+   border-radius: 5px !important;
+}
